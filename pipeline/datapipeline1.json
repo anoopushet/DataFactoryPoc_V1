@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "Delete1",
+				"name": "landing_zone",
 				"type": "Delete",
 				"dependsOn": [],
 				"policy": {
